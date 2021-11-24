@@ -1,0 +1,13 @@
+
+*.bin
+.idea
+.DS_Store
+.project
+*.keystore
+**/build/**
+**/.gradle/**
+*.lock
+node_modules/**
+ios/**
+**/org.eclipse.buildship.core.prefs
+**/release/**
