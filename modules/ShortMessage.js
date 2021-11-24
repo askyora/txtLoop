@@ -3,7 +3,6 @@
 
 // import React in our code
 import React, {useState} from 'react';
-import SplashScreen from 'react-native-splash-screen'
 // import all the components we are going to use
 import {
   SafeAreaView,
