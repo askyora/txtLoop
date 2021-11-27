@@ -12,7 +12,7 @@ App not require any internet connection and contact information, tracing, logs o
 mobile service provider SMS chages will be apply as usual.
 log your issues or improvements [here](https://github.com/askyora/txtLoop/issues).
 
-[Download Latest release](https://github.com/askyora/txtLoop/blob/main/release/txtLoop-1.1.0.apk)
+[Download latest release](https://github.com/askyora/txtLoop/blob/main/release/txtLoop-1.1.0.apk)
 
   
 
