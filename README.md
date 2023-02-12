@@ -1,5 +1,5 @@
 
-[![Apache License][license_img]][license_link]
+[![MIT License][license_img]][license_link]
 
 ![logo]
 
